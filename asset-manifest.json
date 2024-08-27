@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/camsell/static/css/main.8dfc2eac.css",
+    "main.js": "/camsell/static/js/main.e8868d02.js",
+    "static/js/453.4b10f48b.chunk.js": "/camsell/static/js/453.4b10f48b.chunk.js",
+    "static/media/3.png": "/camsell/static/media/3.5335d157c09d2852503a.png",
+    "static/media/1.png": "/camsell/static/media/1.dca6e724d36cc6e3a033.png",
+    "static/media/2.png": "/camsell/static/media/2.500cffcff3d6e9dfa8aa.png",
+    "static/media/sony_alpha.jpeg": "/camsell/static/media/sony_alpha.d4af10fb9836e3cf4292.jpeg",
+    "static/media/fa-solid-900.ttf": "/camsell/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/nikonnew.jpeg": "/camsell/static/media/nikonnew.6d207b1a78acb713bf44.jpeg",
+    "static/media/fa-brands-400.ttf": "/camsell/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/camsell/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/eosr.jpeg": "/camsell/static/media/eosr.26df01c04ed6e50cabba.jpeg",
+    "static/media/fa-brands-400.woff2": "/camsell/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/nikon5800.jpg": "/camsell/static/media/nikon5800.95501aa4f732b7ee9116.jpg",
+    "static/media/nikon.png": "/camsell/static/media/nikon.26886c782888415926b5.png",
+    "static/media/eos - r5.jpg": "/camsell/static/media/eos - r5.42fc59fc0740a8693aed.jpg",
+    "static/media/fa-regular-400.ttf": "/camsell/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/nikon50mm.jpeg": "/camsell/static/media/nikon50mm.c779ed2b9d45c675cbee.jpeg",
+    "static/media/pana.png": "/camsell/static/media/pana.a91121e9aa7603ca34c8.png",
+    "static/media/fftx.jpg": "/camsell/static/media/fftx.1943a3fff0d87d7d9c9e.jpg",
+    "static/media/ff.png": "/camsell/static/media/ff.f2057967306737fd0804.png",
+    "static/media/sony.png": "/camsell/static/media/sony.962974701ac51deb32f4.png",
+    "static/media/fa-regular-400.woff2": "/camsell/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/camsell/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/camsell/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/camsell/index.html",
+    "main.8dfc2eac.css.map": "/camsell/static/css/main.8dfc2eac.css.map",
+    "main.e8868d02.js.map": "/camsell/static/js/main.e8868d02.js.map",
+    "453.4b10f48b.chunk.js.map": "/camsell/static/js/453.4b10f48b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dfc2eac.css",
+    "static/js/main.e8868d02.js"
+  ]
+}
