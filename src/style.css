@@ -1,0 +1,47 @@
+/* Navbar.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+  }
+  
+  .nav-links li {
+    font-size: 18px;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: black;
+    transition: color 0.3s, text-decoration 0.3s;
+  }
+  
+  .nav-links a:hover {
+    color: #fb00ff; /* Change color on hover */
+    text-decoration: underline; /* Add underline effect */
+  }
+  
+  .login-button a {
+    text-decoration: none;
+    color: white;
+    background-color: #2ed3d3;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .login-button a:hover {
+    background-color: #a0ab9a; /* Darker shade on hover */
+    transform: scale(1.05); /* Slight zoom effect */
+  }
+  
+ 
